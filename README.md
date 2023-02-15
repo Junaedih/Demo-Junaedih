@@ -1,8 +1,6 @@
 # Demo-Junaedih
 Demo create a repository on GitHub
 
-## Tutorial menambahkan gambar dan menampilkan isi file
+## Jawaban Latihal (Modul 11)
 
-- Gambar
-
-![menampilkan_isi_file_jawaban](learn_git_again/"Jawaban Latihan (Modul 11).docx")
+![Img 1](learn_git_again/1.PNG)
